@@ -9,9 +9,7 @@ squared Bessel (SQB) representations and randomized Gamma transitions.
 
 ## Overview
 
-This project investigates methods for generating correlated randomized
-Gamma variables and applies them to the exact simulation of correlated
-CEV asset-price processes.
+This research report was completed as part of my undergraduate Research Assistant position at Wilfrid Laurier University. The project investigates correlated randomized Gamma variables and their application to the exact simulation of correlated CEV processes through squared Bessel representations.
 
 The project includes:
 
